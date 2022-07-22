@@ -2,52 +2,59 @@
 
 ### 2022
 
-##### Pure64 OS Development
+#### Pure64 OS Development
 ###### Developer: C & Intel Assembly
 https://github.com/JoseMenta/TPE
+<br></br>
 
 ***
 
 ### 2021
 
-##### JavaFX Draw Application
+#### JavaFX Draw Application
 ###### Developer: Java
 https://github.com/alejofl/tpe-poo
+<br></br>
 
-##### XML Fligths API w/ AirLabs
+#### XML Fligths API w/ AirLabs
 ###### Developer: XSLT & XQuery
 https://github.com/alejofl/tpe-xml
+<br></br>
 
-##### Movies CSV Database API
+#### Movies CSV Database API
 ###### Developer: C
 https://github.com/alejofl/tpe-pi
+<br></br>
 
 ***
 
 ### 2019
 
-##### MycroTech: Robotic Arm controlled via ReactNative App
+#### MycroTech: Robotic Arm controlled via ReactNative App
 ###### Back-end Developer: Javascript & Node.js
 https://github.com/MartinUgarte/Proyecto-2019
+
 https://github.com/a-preitit/MycroTech-ReactNative
+<br></br>
 
 ***
 
 ### 2018
 
-##### Cloudlock: Lock System w/ NFC Technology
+#### Cloudlock: Lock System w/ NFC Technology
 ###### Back-end Developer: Javascript & Node.js
-https://github.com/CloudLock2018/CloudLock
+https://github.com/CloudLock2018/CloudLock   
+<br></br>
 
-##### Web Page using Google Maps & OpenWeatherMap APIs
+#### Web Page using Google Maps & OpenWeatherMap APIs
 ###### Developer: HTML, CSS & Javascript
 https://github.com/a-preitit/TP-API
+<br></br>
 
 ***
-***
 
-#### Initial GitHub Account (2018 - 2019)
-Owner of a-preitit GitHub account: https://github.com/a-preitit
+##### Old GitHub Account (2018 - 2019): a-preitit
+https://github.com/a-preitit
 
 
 
