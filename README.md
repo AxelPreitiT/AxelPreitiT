@@ -3,7 +3,7 @@
 ### 2022
 
 #### Pure64 OS Development
-###### Developer: C & Intel Assembly
+###### Developer: *C & Intel Assembly*
 https://github.com/JoseMenta/TPE
 <br></br>
 
@@ -12,17 +12,17 @@ https://github.com/JoseMenta/TPE
 ### 2021
 
 #### JavaFX Draw Application
-###### Developer: Java
+###### Developer: *Java*
 https://github.com/alejofl/tpe-poo
 <br></br>
 
 #### XML Fligths API w/ AirLabs
-###### Developer: XSLT & XQuery
+###### Developer: *XSLT & XQuery*
 https://github.com/alejofl/tpe-xml
 <br></br>
 
 #### Movies CSV Database API
-###### Developer: C
+###### Developer: *C*
 https://github.com/alejofl/tpe-pi
 <br></br>
 
@@ -31,7 +31,7 @@ https://github.com/alejofl/tpe-pi
 ### 2019
 
 #### MycroTech: Robotic Arm controlled via ReactNative App
-###### Back-end Developer: Javascript & Node.js
+###### Back-end Developer: *Javascript & Node.js*
 https://github.com/MartinUgarte/Proyecto-2019
 
 https://github.com/a-preitit/MycroTech-ReactNative
@@ -41,13 +41,17 @@ https://github.com/a-preitit/MycroTech-ReactNative
 
 ### 2018
 
-#### Cloudlock: Lock System w/ NFC Technology
-###### Back-end Developer: Javascript & Node.js
+<div id="container" style="overflow:auto">
+    <h4><img src="./assets/images/cloudlock.png" width="50" height="50">Cloudlock: Lock System w/ NFC Technology</h4>
+     
+</div>
+
+###### Back-end Developer: *Javascript & Node.js*
 https://github.com/CloudLock2018/CloudLock   
 <br></br>
 
 #### Web Page using Google Maps & OpenWeatherMap APIs
-###### Developer: HTML, CSS & Javascript
+###### Developer: *HTML, CSS & Javascript*
 https://github.com/a-preitit/TP-API
 <br></br>
 
