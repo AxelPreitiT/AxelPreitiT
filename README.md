@@ -6,6 +6,8 @@
 ###### Developer: C & Intel Assembly
 https://github.com/JoseMenta/TPE
 
+***
+
 ### 2021
 
 ##### JavaFX Draw Application
@@ -20,12 +22,16 @@ https://github.com/alejofl/tpe-xml
 ###### Developer: C
 https://github.com/alejofl/tpe-pi
 
+***
+
 ### 2019
 
 ##### MycroTech: Robotic Arm controlled via ReactNative App
 ###### Back-end Developer: Javascript & Node.js
 https://github.com/MartinUgarte/Proyecto-2019
 https://github.com/a-preitit/MycroTech-ReactNative
+
+***
 
 ### 2018
 
@@ -36,6 +42,8 @@ https://github.com/CloudLock2018/CloudLock
 ##### Web Page using Google Maps & OpenWeatherMap APIs
 ###### Developer: HTML, CSS & Javascript
 https://github.com/a-preitit/TP-API
+
+***
 
 
 
